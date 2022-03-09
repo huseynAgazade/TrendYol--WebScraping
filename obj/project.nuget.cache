@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/uapdZlazmeIOBa4BPo5+rVt9CoQbd1llpJzMfX/zYZKA+k2xRkvwM5+WC4PRHGOvZiFDgo6VoIUhZ+1BQh/mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive - Baku Higher Oil School\\Desktop\\Web Dev\\2 - backend\\WebScraping\\WebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
